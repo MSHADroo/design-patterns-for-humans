@@ -3,10 +3,10 @@
 ***
 
 <p align="center">
-🎉 Ultra-simplified explanation to design patterns! 🎉
+🎉 توضیحی فوق ساده برای الگوهای طراحی! 🎉
 </p>
 <p align="center">
-A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+    موضوعی که می تواند به راحتی ذهن هر کسی را به لرزه درآورد. در اینجا سعی می کنم با <i>ساده ترین</i> روش ممکن این مطلب رو به ذهن شما بچسبونم (و حتی ذهن خودم)
 </p>
 
 ***
