@@ -16,35 +16,37 @@
 معرفی
 =================
 
-الگوهای طراحی راهکارهایی هستن برای مشکل های تکرار شدنی؛ **دستورالعملی در مورد چگونگی مقابله با برخی از مشکلات** این راهکارها کلاس، پکیج و یا کتابخانه ای نیستند که بتونید اونها رو به برنامه تون اضافه کنید و منتظر باشید تا یک اتفاق خارق العاده بیوفتد
-Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
+الگوهای طراحی راهکارهایی هستن برای مشکل های تکرار شدنی؛ **دستورالعملی در مورد چگونگی مقابله با برخی از مشکلات** این راهکارها کلاس، پکیج و یا کتابخانه ای نیستند که بتونید اونها رو به برنامه تون اضافه کنید و منتظر باشید تا یک اتفاق خارق العاده بیوفتد. بلکه اینها بیشتر دستورالعملهایی برای مقابله با مشکل هایی خاص هستند.
 
-> Design patterns are solutions to recurring problems; guidelines on how to tackle certain problems
 
-Wikipedia describes them as
+> الگوهای طراحی راهکارهایی برای مشکلات تکرار شونده هستند؛ دستورالعملهایی برای مقابله با مشکلاتی مشخص
 
-> In software engineering, a software design pattern is a general reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations.
 
-⚠️ Be Careful
+پیکی پیدا آنها را اینگونه توصیف میکند
+
+> در مهندسی نرم افزار، یک الگوی طراحی نرم افزاری یک راهکار عمومی با امکان استفاده مجدد است برای مشکلات متداولی است که در طراحی نرم افزار با آنها مواجه میشویم. این ها طراحی های انجام شده این نیستند که بتوان آنها را مستقیما به کد اضافه کرد بلکه اینها یک توضیح و یا یک قالب هستند برای چگونگی حل مسئله ای که می 0تواند در بسیاری از شرایط مختلف مورد استفاده قرار گیرد.
+.
+
+⚠️ مراقب باشید
 -----------------
-- Design patterns are not a silver bullet to all your problems.
+- الگوهای طراحی یک گلوله نقره ای برای همه مشکلات شما نیست.
 - Do not try to force them; bad things are supposed to happen, if done so. 
 - Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
 - If used in a correct place in a correct manner, they can prove to be a savior; or else they can result in a horrible mess of a code.
 
 > Also note that the code samples below are in PHP-7, however this shouldn't stop you because the concepts are same anyways.
 
-Types of Design Patterns
+انواع الگوهای طراحی
 -----------------
 
 * [Creational](#creational-design-patterns)
 * [Structural](#structural-design-patterns)
 * [Behavioral](#behavioral-design-patterns)
 
-Creational Design Patterns
+Creational الگوهای طراحی
 ==========================
 
-In plain words
+به زبان ساده
 > Creational patterns are focused towards how to instantiate an object or group of related objects.
 
 Wikipedia says
@@ -2295,3 +2297,5 @@ And that about wraps it up. I will continue to improve this, so you might want t
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+
