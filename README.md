@@ -6,16 +6,17 @@
 🎉 توضیحی فوق ساده برای الگوهای طراحی! 🎉
 </p>
 <p align="center">
-    موضوعی که می تواند به راحتی ذهن هر کسی را به لرزه درآورد. در اینجا سعی می کنم با <i>ساده ترین</i> روش ممکن این مطلب رو به ذهن شما بچسبونم (و حتی ذهن خودم)
+    موضوعی که می تواند به راحتی ذهن هر کسی را به لرزه درآورد. در اینجا سعی می کنم با <i>ساده ترین</i> روش ممکن این مطلب رو تو ذهن شما فروکنم (همچنین ذهنم خودم)
 </p>
 
 ***
 
 <sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
 
-Introduction
+معرفی
 =================
 
+الگوهای طراحی راهکارهایی هستن برای مشکل های تکرار شدنی؛ **دستورالعملی در مورد چگونگی مقابله با برخی از مشکلات** این راهکارها کلاس، پکیج و یا کتابخانه ای نیستند که بتونید اونها رو به برنامه تون اضافه کنید و منتظر باشید تا یک اتفاق خارق العاده بیوفتد
 Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
 
 > Design patterns are solutions to recurring problems; guidelines on how to tackle certain problems
