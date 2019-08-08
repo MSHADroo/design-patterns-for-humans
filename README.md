@@ -67,9 +67,9 @@ Creational الگوهای طراحی
 
 
 به زبان ساده
---rtl
+<div dir=”rtl”>
 > الگوی Simple factory به سادگی نمونه ای را برای درخواست دهنده ایجاد می کند بدون اینکه درخواست دهنده را با منطق پیاده سازی آن درگیر نماید.
---/rtl
+</div>
 
 به قول ویکی پدیا
 > در برنامه نویسی شیء گرا، یک factory یک شیء است برای ایجاد دیگر اشیاء -  formally a factory is a function or method that returns objects of a varying prototype or class from some method call, which is assumed to be "new
