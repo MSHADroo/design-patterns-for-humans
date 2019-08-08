@@ -1,3 +1,4 @@
+<DIV dir="RTL">
 ![Design Patterns For Humans](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
 
 ***
@@ -2303,3 +2304,4 @@ And that about wraps it up. I will continue to improve this, so you might want t
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
+</DIV>
